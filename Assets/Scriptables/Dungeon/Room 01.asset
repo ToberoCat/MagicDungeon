@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb5eeb999b2d49b5ac5cb46d00c61c92, type: 3}
+  m_Name: Room 01
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6325272482378735287, guid: b6af603f9dbeb957fa0f309568745658, type: 3}
+  probability: 0.378
+  options: 03000000
+  enemyPool: {fileID: 11400000, guid: 5951998ee702f98f8a70c38294e402cd, type: 2}

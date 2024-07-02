@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beeb030b3fb144679278f3fb2613e814, type: 3}
+  m_Name: Mage Pool
+  m_EditorClassIdentifier: 
+  enemies:
+  - prefab: {fileID: 5473225181614072341, guid: 8b84799e8f6d63e16b3cd32fa05c787f, type: 3}
+    probability: 0.245
+  radius: 5
+  spawnCycles: 5
