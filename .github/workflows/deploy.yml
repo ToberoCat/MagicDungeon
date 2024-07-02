@@ -31,7 +31,7 @@ jobs:
         env:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
-          projectPath: UnityWebGLDeploy
+          projectPath: ./
           unityVersion: 2022.3.12f1
           targetPlatform: WebGL
 
