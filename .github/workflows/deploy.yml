@@ -42,3 +42,4 @@ jobs:
           folder: build/WebGL/WebGL
           commit-message: Deploy
           single-commit: true
+          token: ${{ secrets.TOKEN }}
