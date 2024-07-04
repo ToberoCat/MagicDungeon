@@ -18,3 +18,12 @@ You can try out the game [here](https://toberocat.github.io/MagicDungeon/).
 ## Note
 
 Please note that this game is still in an unpolished state. I developed it in approximately three days as an experiment with the spell casting system.
+
+# Credits
+
+The assets have been taken from itch.io
+
+- https://deepdivegamestudio.itch.io/magical-asset-pack
+- https://bdragon1727.itch.io/fire-pixel-bullet-16x16
+- https://paperhatlizard.itch.io/cryos-mini-gui
+- https://pixel-poem.itch.io/dungeon-assetpuck
